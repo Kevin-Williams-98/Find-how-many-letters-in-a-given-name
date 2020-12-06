@@ -5,3 +5,6 @@ What I learned
 - Parsing from double to String
 - printing to console 
 - creating a panel to get input from the user
+
+
+Pdf file shows the original assignment
